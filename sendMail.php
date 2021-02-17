@@ -6,7 +6,6 @@
     require_once 'phpmailer/SMTP.php';
 
     $mail = new PHPMailer(true);
-
     $alert = '';
 
     if(isset($_POST['submit'])){
