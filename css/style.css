@@ -1,0 +1,14 @@
+.contact {
+    margin: 2% auto;
+}
+
+.contact h2 {
+    text-align: center;
+}
+
+.contact-form {
+    width: 80%;
+    border-width: 5px;
+    border-style: outset;
+    padding: 20px 120px 20px 120px;
+}
